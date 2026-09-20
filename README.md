@@ -199,3 +199,4 @@ Alt quiet walk, Q/E lean with server collision and exposed head hit detection. F
 Четыре класса (Инженер, Разведчик, Штурмовик, Медик) и пять фракций: 20 комплектов брони и шевронов, общий MetaHuman-скелет, 335 деталей и рукавов. Медик восстанавливает до 40 HP по Z в бою. Фракции меняются по карте и стороне; в тренировке выбор доступен в меню. Поставка: `Releases/Operators/Windows`. 251 проверка, выделенный сервер и два клиента прошли. [Модели](ArtSource/Operators/Preview.html), [описание](ArtSource/Operators/README.md), [проверки](ArtSource/Operators/VERIFICATION.md). Облачный лицевой риг MetaHuman пока не собран.
 # nullRoute
 # nullRoute
+# nullRoute
