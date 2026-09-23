@@ -1,0 +1,34 @@
+# Unreal-generated build and runtime files
+/Binaries/
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+/Build/
+/Releases/
+/Backups/
+/tmp/
+.vs/
+*.sln
+*.suo
+*.user
+*.pdb
+
+# Python/backend runtime and secrets
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+**/numba_cache/
+**/node_modules/
+*.pyc
+*.log
+.env
+.env.*
+!.env.example
+backend/*.db*
+backend/*.sqlite*
+
+# Optional local TTS toolchain; generated game audio is tracked
+/ArtSource/OpenVoices/models/*
+!/ArtSource/OpenVoices/models/*.json
+!/ArtSource/OpenVoices/models/*MODEL_CARD
+/ArtSource/OpenVoices/espeak-ng-data/

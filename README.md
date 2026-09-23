@@ -1,5 +1,26 @@
 # Null Route
 
+## Клонирование и сборка из GitHub
+
+```powershell
+git lfs install
+git clone https://github.com/MikellangelloBoop/nullRoute.git
+cd nullRoute
+git lfs pull
+$env:UE_ROOT = 'C:\Program Files\Epic Games\UE_5.8'
+.\Scripts\Project.ps1 -Action Build
+.\Scripts\Project.ps1 -Action Editor
+```
+
+Укажите свой путь к Unreal Engine **5.8.1**. Требуются Visual Studio с компонентами C++ и Windows SDK. В репозитории находятся C++-модули, скрипты, backend и игровые ассеты; бинарные ассеты хранятся через **Git LFS**. Установка LFS обязательна до сборки.
+
+Готовые `.exe`, кэши, локальные резервные копии и модели синтеза речи не входят в Git. Для упаковки: `.\Scripts\Project.ps1 -Action Package`. Для игры через интернет все участники должны использовать совместимую сборку; текущая версия протокола — 3.
+
+Текущее обновление **Evolution / Switchyard**: [изменения](Docs/Evolution.md), [проверки](Docs/Evolution-QA.md), [онлайн](Docs/Evolution-Online.md). Существующие карты и ассеты уже включены: повторно генерировать арену для первого запуска не нужно.
+
+Локальные TTS-модели нужны только для повторной генерации озвучки. Готовые игровые реплики включены; условия использования перечислены в [описании голосов](ArtSource/OpenVoices/Голоса-и-лицензии.md). Сторонние ассеты сохраняют свои лицензии; публикация репозитория не меняет эти условия.
+
+
 Главный архитектор / Lead Game Designer: **Беличенко Александр Андреевич**.
 
 ### Штурмовик и фракции — 20.09.2026

@@ -1,0 +1,14 @@
+{
+  "S_Hurt": {
+    "seconds": 0.38,
+    "sample_rate": 48000,
+    "peak": 0.9,
+    "rms": 0.1523568223596497
+  },
+  "S_HurtCritical": {
+    "seconds": 0.76,
+    "sample_rate": 48000,
+    "peak": 0.9,
+    "rms": 0.13279809674277235
+  }
+}

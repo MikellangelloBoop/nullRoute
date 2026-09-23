@@ -1,0 +1,18 @@
+[
+  {
+    "name": "denis",
+    "distribution_url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/vits-piper-ru_RU-denis-medium.tar.bz2",
+    "archive_sha256": "efa4c18e0b5e32b81d1b6df36b9d312831e5d545200e27848ef926a4cd930300",
+    "model_sha256": "75c9f1117d5e4a620a20cb665408adc0828699f4a7a2eb44a233f8c34096be04",
+    "upstream": "rhasspy/piper-voices",
+    "dataset_license": "CC0"
+  },
+  {
+    "name": "dmitri",
+    "distribution_url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/vits-piper-ru_RU-dmitri-medium.tar.bz2",
+    "archive_sha256": "c86d0803737de13d441923ff3b3f309482fab8d7af3ec85949942809eb9a3660",
+    "model_sha256": "f98e751ed00b34b3e1b09ff8c3a7cfbd620fc24777e500e1605e10e7bbb86ea2",
+    "upstream": "rhasspy/piper-voices",
+    "dataset_license": "CC0"
+  }
+]

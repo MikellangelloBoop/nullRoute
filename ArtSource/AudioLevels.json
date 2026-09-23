@@ -1,0 +1,92 @@
+{
+  "S_SMG": {
+    "seconds": 0.85,
+    "peak_dbfs": -2.1581079461903916,
+    "rms_dbfs": -24.977436515276075
+  },
+  "S_Carbine": {
+    "seconds": 0.85,
+    "peak_dbfs": -2.1581079461903916,
+    "rms_dbfs": -23.6011876120884
+  },
+  "S_Marksman": {
+    "seconds": 0.85,
+    "peak_dbfs": -2.1581079461903916,
+    "rms_dbfs": -22.6186427023503
+  },
+  "S_Reload": {
+    "seconds": 1.6,
+    "peak_dbfs": -3.7417328671428884,
+    "rms_dbfs": -28.03471127825242
+  },
+  "S_StepConcrete1": {
+    "seconds": 0.34,
+    "peak_dbfs": -5.192746210115122,
+    "rms_dbfs": -24.40827403805672
+  },
+  "S_StepConcrete2": {
+    "seconds": 0.34,
+    "peak_dbfs": -5.192746210115122,
+    "rms_dbfs": -22.782318044892484
+  },
+  "S_StepConcrete3": {
+    "seconds": 0.34,
+    "peak_dbfs": -5.192746210115122,
+    "rms_dbfs": -23.286488379082975
+  },
+  "S_StepConcrete4": {
+    "seconds": 0.34,
+    "peak_dbfs": -5.192746210115122,
+    "rms_dbfs": -22.52499484396794
+  },
+  "S_StepMetal1": {
+    "seconds": 0.34,
+    "peak_dbfs": -5.192746210115122,
+    "rms_dbfs": -23.447590896151624
+  },
+  "S_StepMetal2": {
+    "seconds": 0.34,
+    "peak_dbfs": -5.192746210115122,
+    "rms_dbfs": -21.85900326244335
+  },
+  "S_StepMetal3": {
+    "seconds": 0.34,
+    "peak_dbfs": -5.192746210115122,
+    "rms_dbfs": -23.201866534293924
+  },
+  "S_StepMetal4": {
+    "seconds": 0.34,
+    "peak_dbfs": -5.192746210115122,
+    "rms_dbfs": -23.233425084527095
+  },
+  "S_DryFire": {
+    "seconds": 0.22,
+    "peak_dbfs": -6.375175252488256,
+    "rms_dbfs": -26.16282912559233
+  },
+  "S_Impact": {
+    "seconds": 0.35,
+    "peak_dbfs": -3.349821745875273,
+    "rms_dbfs": -24.963186992356743
+  },
+  "S_Land": {
+    "seconds": 0.45,
+    "peak_dbfs": -3.349821745875273,
+    "rms_dbfs": -20.942223839954856
+  },
+  "S_Breach": {
+    "seconds": 1.8,
+    "peak_dbfs": -1.4116214857141456,
+    "rms_dbfs": -18.67694478812978
+  },
+  "S_UI": {
+    "seconds": 0.2,
+    "peak_dbfs": -8.873949984654255,
+    "rms_dbfs": -21.528023770065463
+  },
+  "S_Confirm": {
+    "seconds": 0.2,
+    "peak_dbfs": -8.873949984654255,
+    "rms_dbfs": -21.544374970990873
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "file": "S_DroneCharge.wav",
+    "seconds": 0.86,
+    "peak": 0.82,
+    "rms": 0.2658578777602026
+  },
+  {
+    "file": "S_DroneShot.wav",
+    "seconds": 0.22,
+    "peak": 0.82,
+    "rms": 0.11762791591366459
+  },
+  {
+    "file": "S_DroneDown.wav",
+    "seconds": 0.6,
+    "peak": 0.82,
+    "rms": 0.09502903759012407
+  },
+  {
+    "file": "S_HitConfirm.wav",
+    "seconds": 0.07,
+    "peak": 0.82,
+    "rms": 0.2103452432999997
+  },
+  {
+    "file": "S_KillConfirm.wav",
+    "seconds": 0.28,
+    "peak": 0.82,
+    "rms": 0.17380212708390047
+  },
+  {
+    "file": "S_TacticalPing.wav",
+    "seconds": 0.4,
+    "peak": 0.82,
+    "rms": 0.2164894164536979
+  }
+]

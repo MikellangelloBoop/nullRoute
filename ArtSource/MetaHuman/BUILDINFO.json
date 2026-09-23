@@ -1,0 +1,33 @@
+{
+  "build": "metahuman-breacher",
+  "built_at": "2026-09-20T17:27:51.860442+03:00",
+  "exe_sha256": "adc589adfdba48bb64cde1d6d1c15bc7e479e73652bc75d4e2e3acb1794f1398",
+  "checks": {
+    "Breacher": 40,
+    "Module": 25,
+    "Stance": 27
+  },
+  "packaged_checks_total": 92,
+  "body": "Epic MetaHuman Creator local body export: 342 bones, 3 LODs; 62 retargeted animation assets",
+  "armor": "48 generated meshes: 15 bone attachments plus badge for each faction",
+  "cloud_assembly": "INCOMPLETE: Epic authentication worked, S3 face-rig and texture downloads failed",
+  "dedicated_two_clients": "PASS: Editor dedicated server, two clients, three factions and side swap",
+  "scope": "Functional and visual prototype checks; no frame-rate or server-load benchmark",
+  "previous_build_manifest": "MetaHuman/PreviousBuildInfo.json",
+  "controls": {
+    "quiet": "LeftAlt",
+    "lean_left": "Q",
+    "lean_right": "E",
+    "interact": "F",
+    "ability": "Z",
+    "link": "X",
+    "modules": "B",
+    "ping": "MiddleMouseButton"
+  },
+  "source_sha256": {
+    "Source/NRGameplay/Private/NRCharacterAppearance.cpp": "5db3977ee06368d41a08130884400358d4223694ccbda995dc48b37602fe0f97",
+    "Source/NREditor/Private/NRMetaHumanAssetsCommandlet.cpp": "106c0b0ae59136436d429cf28452591a5938bc7a5b1a80c28645e0371801143d",
+    "Source/NREditor/Private/NRMetaHumanArmorCommandlet.cpp": "fe1f55d1da9041bc8647b6ead81037c777144000d0ef9cf5e36469e004f10091",
+    "Scripts/RetargetMetaHuman.py": "29cac1e761c4564bb7c36df1c4dbe7c88883489eed00cd8b3885f607ec53e439"
+  }
+}

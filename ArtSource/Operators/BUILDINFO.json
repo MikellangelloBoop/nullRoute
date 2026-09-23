@@ -1,0 +1,211 @@
+{
+  "recorded_utc": "2026-09-20T15:37:07.160144+00:00",
+  "release": "Z:\\nullRoute\\Releases\\Operators\\Windows",
+  "checks": {
+    "Roster": 159,
+    "Breacher": 40,
+    "Module": 25,
+    "Stance": 27
+  },
+  "total_checks": 251,
+  "network": "dedicated server + owner client + observer: all 20 appearances, side swap, treatment RPC, replicated health; no server cosmetics",
+  "metahuman": {
+    "bones": 342,
+    "body_LODs": 3,
+    "retargeted_assets": 62,
+    "face_rig": "not assembled; Epic/S3 cloud download unavailable"
+  },
+  "static_meshes": 335,
+  "sets": [
+    {
+      "role": "Engineer",
+      "faction": "Chronos",
+      "visible_parts": 15,
+      "armor_triangles": 34051
+    },
+    {
+      "role": "Engineer",
+      "faction": "Police",
+      "visible_parts": 15,
+      "armor_triangles": 34230
+    },
+    {
+      "role": "Engineer",
+      "faction": "Rebel",
+      "visible_parts": 15,
+      "armor_triangles": 34488
+    },
+    {
+      "role": "Engineer",
+      "faction": "Ascended",
+      "visible_parts": 15,
+      "armor_triangles": 39760
+    },
+    {
+      "role": "Engineer",
+      "faction": "RustHounds",
+      "visible_parts": 15,
+      "armor_triangles": 35628
+    },
+    {
+      "role": "Scout",
+      "faction": "Chronos",
+      "visible_parts": 15,
+      "armor_triangles": 32479
+    },
+    {
+      "role": "Scout",
+      "faction": "Police",
+      "visible_parts": 15,
+      "armor_triangles": 32394
+    },
+    {
+      "role": "Scout",
+      "faction": "Rebel",
+      "visible_parts": 15,
+      "armor_triangles": 32652
+    },
+    {
+      "role": "Scout",
+      "faction": "Ascended",
+      "visible_parts": 15,
+      "armor_triangles": 38128
+    },
+    {
+      "role": "Scout",
+      "faction": "RustHounds",
+      "visible_parts": 15,
+      "armor_triangles": 33792
+    },
+    {
+      "role": "Breacher",
+      "faction": "Chronos",
+      "visible_parts": 15,
+      "armor_triangles": 32507
+    },
+    {
+      "role": "Breacher",
+      "faction": "Police",
+      "visible_parts": 15,
+      "armor_triangles": 33098
+    },
+    {
+      "role": "Breacher",
+      "faction": "Rebel",
+      "visible_parts": 15,
+      "armor_triangles": 32944
+    },
+    {
+      "role": "Breacher",
+      "faction": "Ascended",
+      "visible_parts": 15,
+      "armor_triangles": 39212
+    },
+    {
+      "role": "Breacher",
+      "faction": "RustHounds",
+      "visible_parts": 15,
+      "armor_triangles": 34084
+    },
+    {
+      "role": "Medic",
+      "faction": "Chronos",
+      "visible_parts": 15,
+      "armor_triangles": 34143
+    },
+    {
+      "role": "Medic",
+      "faction": "Police",
+      "visible_parts": 15,
+      "armor_triangles": 34322
+    },
+    {
+      "role": "Medic",
+      "faction": "Rebel",
+      "visible_parts": 15,
+      "armor_triangles": 34580
+    },
+    {
+      "role": "Medic",
+      "faction": "Ascended",
+      "visible_parts": 15,
+      "armor_triangles": 40084
+    },
+    {
+      "role": "Medic",
+      "faction": "RustHounds",
+      "visible_parts": 15,
+      "armor_triangles": 34956
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "Roster_Chronos.png",
+      "width": 1600,
+      "height": 800,
+      "sha256": "f68492dc7291a9fbf7918d193be062bfc1238f43d87d438002224b023a03f623"
+    },
+    {
+      "file": "Roster_Police.png",
+      "width": 1600,
+      "height": 800,
+      "sha256": "b80ee4d53ee809c868626b20becf0f92cc9523929f04a382466e69a1277e01bf"
+    },
+    {
+      "file": "Roster_Rebel.png",
+      "width": 1600,
+      "height": 800,
+      "sha256": "69ca98b689d3707231f27d735959738683db818c6262b51d524e6993bb861480"
+    },
+    {
+      "file": "Roster_Ascended.png",
+      "width": 1600,
+      "height": 800,
+      "sha256": "a97e82263e1e6c1ecab88de46c6b11b24180e3e56db6c9e13390ffaa5aec4147"
+    },
+    {
+      "file": "Roster_RustHounds.png",
+      "width": 1600,
+      "height": 800,
+      "sha256": "731128c02e6f054b3ca640bef93e84d478c35a40957ee292b07de60501c4dafb"
+    },
+    {
+      "file": "Roster_MedicFP.png",
+      "width": 1600,
+      "height": 800,
+      "sha256": "d421ed50c4a5e48d59874717d80aea24a6575978efe5b51faec17d045545f231"
+    },
+    {
+      "file": "Roster_Menu.png",
+      "width": 1600,
+      "height": 900,
+      "sha256": "277db57c2d05c1eac620c372b845412e2cfc95c39a5df8cbd4268aa979e4509d"
+    }
+  ],
+  "payload": {
+    "NullRoute\\Binaries\\Win64\\NullRoute.exe": {
+      "bytes": 341013504,
+      "sha256": "e06f06b05fbf162c004080ce7f0567afbec21615c1b29c24f2ba807673f76619"
+    },
+    "NullRoute\\Content\\Paks\\global.ucas": {
+      "bytes": 3646752,
+      "sha256": "b1e9b306a1bf5399c9907a007b7a1cb05b34f39a940797a763e8950ffcbf511f"
+    },
+    "NullRoute\\Content\\Paks\\global.utoc": {
+      "bytes": 866,
+      "sha256": "61a5569437ce6559c607a5369026f9f5af0a1151aaba04f1deee8f3ea5c7437e"
+    },
+    "NullRoute\\Content\\Paks\\NullRoute-Windows.pak": {
+      "bytes": 10754365,
+      "sha256": "c152dc0299cf9c0b5ab033cf02dfd273492acfe3c67b62ed6fddf1d0c96b4873"
+    },
+    "NullRoute\\Content\\Paks\\NullRoute-Windows.ucas": {
+      "bytes": 784438064,
+      "sha256": "4c8c170d1a9d81ced74c0909afe0ac669aa0566c2afac8930fb9acbb3ce6e462"
+    },
+    "NullRoute\\Content\\Paks\\NullRoute-Windows.utoc": {
+      "bytes": 449737,
+      "sha256": "74fb24067ebc3e857e7a459c45e2cdfee9e10e284baba52fd01902a21bbe4910"
+    }
+  }
+}
